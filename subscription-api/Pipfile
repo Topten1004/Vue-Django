@@ -9,6 +9,7 @@ name = "pypi"
 djangorestframework = "*"
 django = "*"
 django-cors-headers = "*"
+django-rest-framework = "*"
 
 [requires]
 python_version = "3.7"
